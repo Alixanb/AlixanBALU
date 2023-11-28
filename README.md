@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alixan BALU</h1>
 <h3 align="center">A passionate frontend developer from France, Strasbourg</h3>
 <br>
+<p>I am a french developer since 2019, and i am currently looking for an internship or work-study, you can see more info below !</p>
 
 - 🔭 I’m currently working on **Trombino Scope**
 
